@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/geonetwork/core-geonetwork.svg?branch=develop)](https://travis-ci.org/geonetwork/core-geonetwork)
 
+Jeff's copy
+
 # Features
 
 * Immediate search access to local and distributed geospatial catalogues
